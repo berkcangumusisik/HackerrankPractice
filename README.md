@@ -1,1 +1,16 @@
-# HackerrankPractice
+<p align="center"><a href="https://www.hackerrank.com/gumusisikberkcan?hr_r=1"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
+
+# HACKERRANK PROBLEMLERİNİN ÇÖZÜMLERİ
+  Repoyu günlük olarak güncellemekteyim. Yardımcı olduysa yıldız vermeyi unutmayın.
+
+## PYTHON
+
+|       Subdomain       |                 Challenge                 |                                             Problem                                              | Difficulty | Score |                                             Solution                                              |
+| :-------------------: | :---------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------: | :---: | :-----------------------------------------------------------------------------------------------: |
+|     Introduction      |      Say 'Hello, World!' With Python      |             [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem)              |    Easy    |   5   |   [Solution](https://github.com/berkcangumusisik/HackerrankPractice/blob/main/Python/01.%20Introduction/001.%20Say%20Hello%2C%20World!%20With%20Python.py)   |
+|     Introduction      |              Python If-Else               |               [Problem](https://www.hackerrank.com/challenges/py-if-else/problem)                |    Easy    |  10   |              [Solution](https://github.com/berkcangumusisik/HackerrankPractice/blob/main/Python/01.%20Introduction/002.%20Python%20If-Else.py)               |
+|     Introduction      |           Arithmetic Operators            |       [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)       |    Easy    |  10   |           [Solution](https://github.com/berkcangumusisik/HackerrankPractice/blob/main/Python/01.%20Introduction/003.%20Arithmetic%20Operators.py)            |
+|     Introduction      |              Python Division              |             [Problem](https://www.hackerrank.com/challenges/python-division/problem)             |    Easy    |  10   |            [Solution](/Python/01%20-%20Introduction/04%20-%20Python%20-%20Division.py)            |
+|     Introduction      |                   Loops                   |              [Problem](https://www.hackerrank.com/challenges/python-loops/problem)               |    Easy    |  10   |        [Solution](https://github.com/berkcangumusisik/HackerrankPractice/blob/main/Python/01.%20Introduction/004.%20Python%20Division.py)                    |
+|     Introduction      |             Write a function              |            [Problem](https://www.hackerrank.com/challenges/write-a-function/problem)             |   Medium   |  10   |            [Solution](https://github.com/berkcangumusisik/HackerrankPractice/blob/main/Python/01.%20Introduction/006.%20Write%20a%20function.py)             |
+|     Introduction      |              Print Function               |              [Problem](https://www.hackerrank.com/challenges/python-print/problem)               |    Easy    |  20   |              [Solution](https://github.com/berkcangumusisik/HackerrankPractice/blob/main/Python/01.%20Introduction/007.%20Print%20Function.py)  
